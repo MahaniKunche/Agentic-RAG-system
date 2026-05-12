@@ -241,4 +241,5 @@ The system emphasizes modularity, scalability, and hallucination prevention whil
 # Author
 
 **Mahani**  
-BTech Student — :contentReference[oaicite:0]{index=0}
+BTech
+IIT HYD
